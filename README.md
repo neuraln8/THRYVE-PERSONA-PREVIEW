@@ -1,5 +1,5 @@
 
-# Simple Chatbot using Groq Cloud and Streamlit
+# NN8 PERSONA PREVIEW THRYVE 
 
 ## Description
 This is a simple chatbot application built with Streamlit and Groq Cloud API. The chatbot uses a system prompt for a persona and interacts with users through a user-friendly interface.
